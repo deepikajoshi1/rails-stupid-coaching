@@ -1,0 +1,2 @@
+module QuestionsController2Helper
+end
